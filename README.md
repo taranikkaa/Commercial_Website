@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
 ## Date:16/03/2025
+# NAME:Taranikka A
+# REG: 212223220115
 
 ## AIM
 To create a commercial website using CSS Flexbox.
